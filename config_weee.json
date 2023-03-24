@@ -1,0 +1,24 @@
+{
+  "port": "3005",
+  "adminAccount": "admin@admin.com",
+  "timeout":120000,
+  "closeRegister":false,
+  "db": {
+    "servername": "3.133.119.143",
+    "DATABASE": "weee_yapi",
+    "port": 27017,
+    "user": "weee_yapi",
+    "pass": "12345dfsdfdsfs6",
+    "authSource": ""
+  },
+  "mail": {
+    "enable": true,
+    "host": "smtp.163.com",
+    "port": 465,
+    "from": "***@163.com",
+    "auth": {
+      "user": "***@163.com",
+      "pass": "*****"
+    }
+  }
+}
